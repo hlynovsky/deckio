@@ -31,15 +31,6 @@
 {deckioFolder}/backups/
 ```
 
-## Future updates:
-
-* SFTP Explorer
-* Automatic synchronization of saves in addition to manual ones
-* Linux support
-* Plugin for Steam Deck
-* Custom CSS themes
-* Cloud saves
-
 ## How to setup SSH on your Steam Deck:
 
 1. **First, we need to set the superuser password**
